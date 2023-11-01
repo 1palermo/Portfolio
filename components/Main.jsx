@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import { AiOutlineMail } from "react-icons/ai";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 
 const Main = () => {
   return (
@@ -17,13 +17,13 @@ const Main = () => {
           </h1>
           <h1 className="py-2 text-gray-700">A Full Stack Web Developer</h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I am currently a passionate and dedicated 4th-year B.Tech Computer
-            Science student, eagerly seeking to embark on an exciting journey in
+            I am currently a passionate and dedicated 3rd-year B.Tech Electrical Engineering 
+            student from Delhi Technological University, eagerly seeking to embark on an exciting journey in
             the world of technology.
           </p>
-          <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
+          <div className="flex items-center justify-between max-w-[400px] m-auto py-4">
             <a
-              href="https://www.linkedin.com/in/aman-yadav-351357167/"
+              href="https://www.linkedin.com/in/aman-deep-ab0996229/"
               target="_blank"
               rel="noreferrer"
             >
@@ -32,12 +32,21 @@ const Main = () => {
               </div>
             </a>
             <a
-              href="https://github.com/Amanyadav1901/"
+              href="https://github.com/1palermo"
               target="_blank"
               rel="noreferrer"
             >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaGithub />
+              </div>
+            </a>
+            <a
+              href="https://twitter.com/_Amandeeep"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
+                <FaTwitter />
               </div>
             </a>
             <Link href="/#contact">
