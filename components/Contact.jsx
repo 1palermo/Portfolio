@@ -36,7 +36,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "Aman",
           from_email: form.email,
-          to_email: "amanyadav786001@gmail.com",
+          to_email: "aman.dp121@gmail.com",
           message: form.message,
         },
         "DbIlNQ2FNEW_gKi7S"
@@ -90,7 +90,7 @@ const Contact = () => {
                 <p className="uppercase pt-8">Connect With Me</p>
                 <div className="flex items-center justify-between py-4">
                   <a
-                    href="https://www.linkedin.com/in/aman-yadav-351357167/"
+                    href="https://www.linkedin.com/in/aman-deep-ab0996229/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -99,7 +99,7 @@ const Contact = () => {
                     </div>
                   </a>
                   <a
-                    href="https://github.com/Amanyadav1901/"
+                    href="https://github.com/1palermo"
                     target="_blank"
                     rel="noreferrer"
                   >
