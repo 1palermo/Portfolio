@@ -13,8 +13,7 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            I am currently a passionate and dedicated 4th-year B.Tech Computer
-            Science student, eagerly seeking to embark on an exciting journey in
+            I am currently a passionate and dedicated 3rd year student, eagerly seeking to embark on an exciting journey in
             the world of technology. My goal is to secure a{" "}
             <span className="text-[#5651e5]">
               Software Development Engineer (SDE)
